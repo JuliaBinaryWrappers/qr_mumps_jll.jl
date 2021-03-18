@@ -1,256 +1,256 @@
 [[qr_mumps]]
 arch = "aarch64"
-git-tree-sha1 = "026c866ebe253f59b1d42d8fbc96a5dab7637e5c"
+git-tree-sha1 = "06413912e430d80491fafa074fcbe93e42dc0c66"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "d4bab4fa3e39363c5167fd0821cbfcba805d99755c5d3518dc45cca9087ee3f7"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "ced5e2ed5079a34b752af12091c00233a2ec00b11077f3013c18095b9337fb10"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "aarch64"
-git-tree-sha1 = "ae79bd3273b8428edd9ec1463fcf0d4960c6e909"
+git-tree-sha1 = "a75d07a6ef85a21b46d194f806f6c22f38361664"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "7ec33bd385b8a6d8fb61e7cdb05161c5120e32c27f140ad0aa5722193c13dcb2"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "344f4e02b70ee75d69bc7c3343095b559382a6514b7560242fbd1388d8e6c98f"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "aarch64"
-git-tree-sha1 = "121660291094869d322e166fda4fa2ddea593539"
+git-tree-sha1 = "d720481de7787fc41c3445c685c9cb1eadd7cae8"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "2ea98ff0a425f0b219429d215745c90e22cbd341a650f67faacde1215cb8f57b"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "29ffec40b24776c4d19c5c8637e6a27f4b096bfea2a74508f8e3360dc17e2d1d"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.aarch64-linux-musl-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "aarch64"
-git-tree-sha1 = "6cad6c7b3d475c5a4d65f5b84dbc6bfde289e64b"
+git-tree-sha1 = "25cae11bc7c4595404b5baebef679ed38784ec84"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "4b586a25f0d9740b7bfe6983343ba4526df3270abd4ea525e2103837d1497b67"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "3340311ffa63d423ac132af62f1786611de1cbea313abb0e30653e2fb3a53f80"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.aarch64-linux-musl-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f1b812711146d2f4790ebd573c74d6166a9855bd"
+git-tree-sha1 = "6aa42aced283fd90f06439c8967a35ef12c381e8"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "6be53b773a68cb2c0a5061b60fed85c94674e1242a14de29b9501a25188cdd09"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "38758b698fbf247c33c59f11f6a98d19faa8f240e57e39f331281f26a802d4ba"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "bac2180974e64a4154cb6af60d32fa94ee060969"
+git-tree-sha1 = "9d115be425fee57c9fa1bfde10e133abf5a752d6"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "63a2b25394908acb991b59d1c219e2f51cc8f55812f1a703cbed7f48cbf52cfc"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "87d4a305220e24c94a7340895fbedbb39966db311ce38f3a911d2b660086be9a"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2bb2d5ed7725b53a0d24c88c39815b956ae67107"
+git-tree-sha1 = "950051ff3bf23914c476ef89b83d1b7023e38bd8"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "9eba3d68b46c5be7fa48d2931dccdf0729622bb47a4b08f30433dc87a651033a"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "5683bccdd00c4b9238435ecc908804cc1466d39847c74d4bbaefc97416fad8f1"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "46a705dd8334554338c7a447ac484748b4f33954"
+git-tree-sha1 = "4e9d3f820238dfa72579a592a25fff729cd28316"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "bb9e7b441b5e20466f5b4ac212a1403775329238c86e1efa107ce1d8ca58b19d"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "c4dd4c576b9ed1b2c11176e4f647d6ae703745466a9ffd29e825c9c7b002582b"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "i686"
-git-tree-sha1 = "587131b9dc574070f58c50dba7f76ffb40c0f939"
+git-tree-sha1 = "43fe20e903f939662e95d55d4a11a532a244eb8c"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "576c85a36ceece18a1a0982c50e0f879e4ed0d01bc4ef706ebb40f28729efa4e"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "8de864a651028b58c31d9b17b130b011eed86ed00979cf694f80d7f23d626cbb"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.i686-linux-gnu-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "i686"
-git-tree-sha1 = "121f10f1b8f04d92478e91dee8de2f6e6a801ce0"
+git-tree-sha1 = "5ec8c131e33ba25c0dfface738e0170497b93431"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "71f9cfdacee8b969774965d6cb90fec41f444c57cb09d4d02d184cf543bebad8"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "4e450ba267754037a9fdc67c39c74986dfd83a532069cb407e99742ae585d543"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.i686-linux-gnu-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "i686"
-git-tree-sha1 = "47ac2b75ac187f4b8b7cafe3a0fafb3c646d4126"
+git-tree-sha1 = "70a8967857abda4c98d1cd917a6e68ef60941bf5"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "3aa6890687aea04b930bee2cdc0476dc4ab0ea77f85bb9829ed165e6a1fdd87a"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "2bdafb49ad06951d86a10ba32118c962d86d42672a249d0a0c66608479149e3e"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.i686-linux-musl-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "i686"
-git-tree-sha1 = "07f6433b5d6588bfdcd784f1106f6d899954b86e"
+git-tree-sha1 = "843570e8aafa32d921adfbdcdce4ca1c17d1057a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "744e2106fca22e60a06949496bf898ed20c1405ddbc246792d72ab8b77824f2a"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "4cab3363fa48d7943801997bc60f2c4dc18dd81ec342f7600e8aa01f4b965607"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.i686-linux-musl-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "i686"
-git-tree-sha1 = "16228b22cd5b0bcb03266ea653be915668afc570"
+git-tree-sha1 = "5b33c521bc4240eb18c5a02a664a8bed23c18618"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[qr_mumps.download]]
-    sha256 = "4c53da1cd9b5052647073bf420c41f18ccbfe2c86a8555840ccb5323e4505082"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "4879861a5a3e012777e42dc99f99e751c263a78e75f9a13b8115118d9a64229c"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.i686-w64-mingw32-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "i686"
-git-tree-sha1 = "c500320559b492ae1e73113fd352e97f1b4a4030"
+git-tree-sha1 = "011d40a6d34a583e56a3d9ebb14988db6705c20f"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[qr_mumps.download]]
-    sha256 = "0798280253ebab1fd9017b2ae017d6f99f4da4b55810a1dbb5da948e3593be0e"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "535ebf3e12b6aa39381a87bd848eec2fa809c37e5aa8aaf490206152138733ea"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.i686-w64-mingw32-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "powerpc64le"
-git-tree-sha1 = "b4967c557c5aedda4bef326f8e1dd7b9d8f35ee0"
+git-tree-sha1 = "4408e1249d7475160e969b60f970aed651da6f94"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "4ac48570a969d7737492ffe0719c35461c072ce1182b6e4a7cd063673f512c0b"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "8163c72490902cabeace494c9b7ff37cbaea84406f88c9ce5735b16d6b0b1d48"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "powerpc64le"
-git-tree-sha1 = "fe7ecc23eb3f5c0ffa052c90f4917b481e89b0fe"
+git-tree-sha1 = "8ae131e4c2ccd925a61f20b858f6fdff7427dbf1"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "041bf5c577ae48a95a9973791eeaba39dc5acd1da9366f1f21e2e2d6eb65ff8d"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "4f8222c3e7eb7e76d7364be5c8be91d2d25e171ed9f5341244a4e3f60b6427e6"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "x86_64"
-git-tree-sha1 = "03965788c7c081aca5e709806af69013ebee162c"
+git-tree-sha1 = "7b5489722332875a55450311aa3076db086c175e"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[qr_mumps.download]]
-    sha256 = "a414a41392b80461df9d1d1b0c2462997b829b02156b090f3ba6c1318bbbf6f9"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "c73859927c363fb1cf860e2ab815adb1850fa90f8bba0deaaa87dda3e511a273"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "x86_64"
-git-tree-sha1 = "3135bf588a05edd115ae767b3d770f2ae26eeaac"
+git-tree-sha1 = "9dbccfabebc53c5e55a17ce43825b9ea11720e33"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[qr_mumps.download]]
-    sha256 = "b7e829683ca938b67299e212928a75cf7e9a32aa75dd63ce358536329906dd92"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "3079954226d9ce8e7ad6ce6ba1b93fee2700aadb118632abd21ba05747f870fa"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "x86_64"
-git-tree-sha1 = "ad4cc7559327723893a12844f00479c7d66fc420"
+git-tree-sha1 = "92b3feda5d1057a24cec8187b2f8b7a648db2cee"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "06776c754b8323c6dcd359fff54bb74662bbd0b93d477cdf5234cec1aa709d4b"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "e7a9d2397ca31b699802a2199f1e90ac7f35814c49be4df8839ffd888e072123"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "x86_64"
-git-tree-sha1 = "c16d0ad2604e4470b1b57eb8f55610b6988829c7"
+git-tree-sha1 = "c2a71c666d061b7c7f7895b3315f3a68f9d688c0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "e1754b99aec549b96ca4c5e7504b16ce03bf1923e32659a7135df9175cf2896c"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "6b79581b1e1ae35baddd419c03a872f6b29d7f8482592e5ccddc455fba7e3e44"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "x86_64"
-git-tree-sha1 = "d8b21f56433793787c4aafd2ae428115468bae9e"
+git-tree-sha1 = "0a671c2221c58123d2bf7f3560f506bab5d33450"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "10bf6419e35e7ac986db92c5ee7ffdd182add2aaba737ee0f5561b8c345e04a0"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "66e62f3ae3da0ade233573c7c8860d405f082f8647af8eb4412282073e071d17"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.x86_64-linux-musl-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "x86_64"
-git-tree-sha1 = "a6e282be5558f1981dc776967befd305a87ca61e"
+git-tree-sha1 = "749e4a48b71e8865613efae8404bbf8e07167e90"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[qr_mumps.download]]
-    sha256 = "2c4572092254533f182ecf9f94647deda1dd7b45d2ffd9a2a6752e1339ed7814"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "b957069db8792f6dc482873f513f790403976d721254e1fde5ef950fef49c51b"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.x86_64-linux-musl-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "x86_64"
-git-tree-sha1 = "eb480f3f5fca28b09e63eb04ace41b8a39f5774b"
+git-tree-sha1 = "5f05cd35507628948a0da70a5e6fb8811b8d0f84"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[qr_mumps.download]]
-    sha256 = "4787c5b133d09b3822f6d82f7176c728adee3600274c0c147d7629e2f3ab2a3d"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "d28cfd249cbf3eee571a6b9f0a32b33fe4360971e44d2bf039fae2baa12bb15b"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "x86_64"
-git-tree-sha1 = "4c29a8f380c5e9d802546490adc45988368088d7"
+git-tree-sha1 = "e6b2ba9b0aaa56ff379ace4f26c751ebe3b30d65"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[qr_mumps.download]]
-    sha256 = "203ef42f213caaee8573123cff2dcf920e4129f698aeaf5809ad3bacba018936"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "7cc680ecd9c1494fe51bfff84185fbec76cd2bcb6a4323a29d89494575e12671"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[qr_mumps]]
 arch = "x86_64"
-git-tree-sha1 = "b27b05832887ac0f0e1b94a3ff15f9ac019b8625"
+git-tree-sha1 = "f37b8bfc172dada70cbeff9b81dac3bdc5d18e0e"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[qr_mumps.download]]
-    sha256 = "942265739dc1e9c8affe453558aeffc1bcf1133ec1880a870f5712b969665480"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "472c2d23d7c861af3217fdff72c4f2b4cadee88773528d462fedf5d31aaa0355"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[qr_mumps]]
 arch = "x86_64"
-git-tree-sha1 = "afff2c1563a4d6694bd41e544733a793915403af"
+git-tree-sha1 = "1789230602112957d9fda301b952a989c6e56407"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[qr_mumps.download]]
-    sha256 = "9df3daa3c6b53b68f01c254757538b6e4786e7bead0668466af1f89bbf443277"
-    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.1+1/qr_mumps.v3.0.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "6a8b5d82f2755987ba5f05bf4dac5e578b37047aedc1eebd915316f3691d2584"
+    url = "https://github.com/JuliaBinaryWrappers/qr_mumps_jll.jl/releases/download/qr_mumps-v3.0.2+0/qr_mumps.v3.0.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
