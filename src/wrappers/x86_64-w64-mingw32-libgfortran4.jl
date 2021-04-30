@@ -6,6 +6,7 @@ using CompilerSupportLibraries_jll
 using SuiteSparse_jll
 using METIS_jll
 using SCOTCH_jll
+using StarPU_jll
 JLLWrappers.@generate_wrapper_header("qr_mumps")
 JLLWrappers.@declare_library_product(libcqrm, "libcqrm.dll")
 JLLWrappers.@declare_library_product(libdqrm, "libdqrm.dll")
@@ -13,7 +14,7 @@ JLLWrappers.@declare_library_product(libqrm_common, "libqrm_common.dll")
 JLLWrappers.@declare_library_product(libsqrm, "libsqrm.dll")
 JLLWrappers.@declare_library_product(libzqrm, "libzqrm.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(OpenBLAS32_jll, CompilerSupportLibraries_jll, SuiteSparse_jll, METIS_jll, SCOTCH_jll)
+    JLLWrappers.@generate_init_header(OpenBLAS32_jll, CompilerSupportLibraries_jll, SuiteSparse_jll, METIS_jll, SCOTCH_jll, StarPU_jll)
     JLLWrappers.@init_library_product(
         libcqrm,
         "bin\\libcqrm.dll",
